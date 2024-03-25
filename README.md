@@ -12,3 +12,6 @@
 * gem "sqlite3", "~> 1.4"
 
 
+# 参考サイト
+
+* https://github.com/hiromu617/book_admin
